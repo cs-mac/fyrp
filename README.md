@@ -18,7 +18,8 @@ ACT-R, version 7.13
 ### Installing
 
 ```
-pip install -r requirements.txt
+git clone https://bitbucket.org/csmac/fyrp
+pip3 install -r requirements.txt
 ```
 
 ### How to run the models
