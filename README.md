@@ -54,7 +54,7 @@ python3 recall_dynamics.py
 
 ## Authors
 
-* **Chi Sam Mac** - [Bitbucket](https://bitbucket.org/csmac/)[E-Mail](chisam_mac@hotmail.com)
+* **Chi Sam Mac** - [Bitbucket](https://bitbucket.org/csmac/) - [E-Mail](chisam_mac@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/chi-sam-mac-910924167/)
 
 ## License
 
