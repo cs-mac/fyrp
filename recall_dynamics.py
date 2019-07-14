@@ -40,12 +40,6 @@ def recall_dynamics(controls, depressed, dynamic):
     plt.savefig('images/'+dynamic+'.png', bbox_inches='tight')
     plt.close()
 
-def pstay(controls, depressed, dynamic):
-    '''
-    Plot recall dynamics for pstart and pstop
-    '''
-    return
-
 try:
     cfile = open("results_controls.pickle","rb")
     control_results = pickle.load(cfile)
@@ -62,4 +56,3 @@ except FileNotFoundError:
 
 recall_dynamics(control_results, depressed_results, "pstart")
 recall_dynamics(control_results, depressed_results, "pstop")
-pstay(control_results, depressed_results)
